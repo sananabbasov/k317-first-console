@@ -1,0 +1,15 @@
+D:\K317\Console\K317firstapp\bin\Debug\net6.0\K317firstapp.exe
+D:\K317\Console\K317firstapp\bin\Debug\net6.0\K317firstapp.deps.json
+D:\K317\Console\K317firstapp\bin\Debug\net6.0\K317firstapp.runtimeconfig.json
+D:\K317\Console\K317firstapp\bin\Debug\net6.0\K317firstapp.dll
+D:\K317\Console\K317firstapp\bin\Debug\net6.0\K317firstapp.pdb
+D:\K317\Console\K317firstapp\obj\Debug\net6.0\K317firstapp.csproj.AssemblyReference.cache
+D:\K317\Console\K317firstapp\obj\Debug\net6.0\K317firstapp.GeneratedMSBuildEditorConfig.editorconfig
+D:\K317\Console\K317firstapp\obj\Debug\net6.0\K317firstapp.AssemblyInfoInputs.cache
+D:\K317\Console\K317firstapp\obj\Debug\net6.0\K317firstapp.AssemblyInfo.cs
+D:\K317\Console\K317firstapp\obj\Debug\net6.0\K317firstapp.csproj.CoreCompileInputs.cache
+D:\K317\Console\K317firstapp\obj\Debug\net6.0\K317firstapp.dll
+D:\K317\Console\K317firstapp\obj\Debug\net6.0\refint\K317firstapp.dll
+D:\K317\Console\K317firstapp\obj\Debug\net6.0\K317firstapp.pdb
+D:\K317\Console\K317firstapp\obj\Debug\net6.0\K317firstapp.genruntimeconfig.cache
+D:\K317\Console\K317firstapp\obj\Debug\net6.0\ref\K317firstapp.dll
